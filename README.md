@@ -19,7 +19,6 @@ Alternatively, download the ZIP file and extract it.
 Install the following Python packages:
 ```sh
 pip install SpeechRecognition
-<br>
 pip install pyaudio
 ```
 **Note:** tkinter is usually pre-installed with Python on most systems.
