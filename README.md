@@ -1,6 +1,6 @@
 # AI Voice Search Assistant
 
-AI Voice Search Assistant is a simple desktop application built using Python, Tkinter, and SpeechRecognition that lets you search Google, YouTube, or Instagram using your voice or text input. It’s beginner-friendly and showcases a combination of GUI design and voice automation.
+**AI Voice Search Assistant** is a simple desktop application built using Python, Tkinter, and SpeechRecognition that lets you search Google, YouTube, or Instagram using your voice or text input. It’s beginner-friendly and showcases a combination of GUI design and voice automation.
 
 ## How to Use
 1. Choose a platform: Google, YouTube, or Instagram.<br>
